@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161900246738",
+    "firebase_url": "https://safenote-a14b5.firebaseio.com",
+    "project_id": "safenote-a14b5",
+    "storage_bucket": "safenote-a14b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161900246738:android:5e279881747c3dd08c9f0b",
+        "android_client_info": {
+          "package_name": "io.muhwyndham.safenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161900246738-8sac624dou18kc02vagb87f9ej9a4jao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.muhwyndham.safenote",
+            "certificate_hash": "a2c7a07c8f23fc27df07d93bb1f37749f8cdbb3c"
+          }
+        },
+        {
+          "client_id": "161900246738-8drgm5sq3va3jci8045hucirluen0doo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeEuy1QWtm8cjCaCGvQmJ0cqr2dulD3mM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161900246738-8drgm5sq3va3jci8045hucirluen0doo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
